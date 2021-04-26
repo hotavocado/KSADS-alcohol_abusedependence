@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS-alcohol_abusedependence/master/activities/",
+        "alcohol_abusedependence": {
+            "@id": "activity_path:alcohol_abusedependence/alcohol_abusedependence_schema",
+            "@type": "@id"
+        }
+    }
+}
